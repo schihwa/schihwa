@@ -32,7 +32,7 @@ me.say_hi()
 - **[Python Crash Course, 2nd Edition](https://www.amazon.co.uk/Python-Crash-Course-2nd-Edition/dp/1593279280)**  
 
 
-- **[Professional C#](https://www.amazon.co.uk/Professional-C-Marc-Gregoire/dp/1119695406)**  
+- **[Professional C++](https://www.amazon.co.uk/Professional-C-Marc-Gregoire/dp/1119695406)**  
 
 
 - **[C# 9.0 in a Nutshell: The Definitive Reference](https://www.amazon.co.uk/C-12-Nutshell-Definitive-Reference/dp/1098147448)**  
